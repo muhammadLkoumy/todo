@@ -1,5 +1,5 @@
 # Todo App
-## Used to add tasks by using local database "sqf-lite" 
+## Built to add tasks by using local database "sqf-lite" 
 
 <img src="screenshots/one.jpg" width = "400"> <img src="screenshots/two.jpg" width = "400"> 
 ### Three screens New, Done and Archived tasks 
